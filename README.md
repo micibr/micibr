@@ -21,7 +21,7 @@ I'm an undergraduate student at the University of Washington studying Computer S
 
 ## 🤝 Connect with Me
 
-- 🌐 [Personal Website]([https://ww](https://homes.cs.washington.edu/~micibr/))
+- 🌐 [Personal Website](https://homes.cs.washington.edu/~micibr/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/micbrahim)
 
 ---
