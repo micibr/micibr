@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there! 👋 I'm Michael Ibrahim
 
-<!--
-**micbrahim/micbrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm an undergraduate student at the University of Washington studying Computer Science & Informatics, and I'm passionate about building useful, thoughtful, and scalable solutions. Whether it's embedded systems or machine learning models, I love turning ideas into code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🛠 Tech Stack
+
+- **Languages:** C/C++, Python, Java, JavaScript, TypeScript
+- **Frameworks/Libraries:** React, Node.js, Bootstrap, Sanity, Zephyr RTOS, Nordic SDK
+- **Tools:** Git, Docker, VS Code, Figma, Postman
+- **Embedded:** Arduino, IMU sensors, PID control
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=micbrahim&show_icons=true&theme=default)
+
+<!-- Optional: Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micbrahim&layout=compact)
+
+## 🤝 Connect with Me
+
+- 🌐 [Personal Website]([https://ww](https://homes.cs.washington.edu/~micibr/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/micbrahim)
+
+---
+
+Thanks for stopping by! ✨
