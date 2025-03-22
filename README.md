@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Michael Ibrahim
+# Michael Ibrahim
 
 Welcome to my GitHub profile!
 
