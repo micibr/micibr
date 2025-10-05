@@ -1,6 +1,6 @@
 # Michael Ibrahim
 
-University of Washington undergraduate in Computer Science, focusing on embedded systems and machine learning.
+University of Washington BS/MS student in Computer Science & Engineering, focusing on embedded systems and machine learning.
 
 ---
 <p align="center">
