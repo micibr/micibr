@@ -1,16 +1,16 @@
-# Michael Ibrahim
+# Michael Ibrahim 
+<a href="https://github.com/micibr">
+    <img src="https://komarev.com/ghpvc/?username=micibr&style=flat-square" alt="Profile Views" />
+  </a>
 
 University of Washington BS/MS student in Computer Science & Engineering, focusing on embedded systems and machine learning.
 
 ---
 <p align="center">
-  <a href="https://github.com/micibr">
-    <img src="https://komarev.com/ghpvc/?username=micibr&style=flat-square" alt="Profile Views" />
-  </a>
   <a href="https://linkedin.com/in/micibr">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:micibr@cs.washington.edu">
+  <a href="mailto:michaelibr04@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
